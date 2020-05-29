@@ -6,7 +6,8 @@ A simple Python wrapper that calls the weather API and aggreate the results.
 - API docs: [https://www.weatherbit.io/api/weather-current][https://www.zipcodeapi.com/API]
 
 Note:
-The zipcode API returns a lot of zipcodes. So, only a few of the are selected from them
+The zipcode API returns a lot of zipcodes. So, only a few of them are selected from them.
+
 Zipcodes are limited to California, United States
 
 ### Sample Usage (of the code)
